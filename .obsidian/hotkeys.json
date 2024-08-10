@@ -1,0 +1,20 @@
+{
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:00 - Templates/Notes.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-1": []
+}

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "30161687ddd1514b",
+    "type": "split",
+    "children": [
+      {
+        "id": "beaac95538670439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d221966001f2e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c9045533e746115",
+    "type": "split",
+    "children": [
+      {
+        "id": "eda871b3d0670232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9a74dd3c8689f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3a0c444347dbb8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c36b59e3afd5b61c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a35dbac6bbc16450",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e299c917697507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148271eed35a48dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ba4676b9e2cd6c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c56165fc5a7413f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55407fa7e5073d6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md"
+              }
+            }
+          },
+          {
+            "id": "e9e65ed5dd589b8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f54e6c77e43b50c8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5a9a74dd3c8689f3",
+  "lastOpenFiles": [
+    "02 - Materials/Courses",
+    "02 - Materials/Videos",
+    "02 - Materials/Articles",
+    "01 - Notes/2024/08 - August/12 - August - 2024.md",
+    "01 - Notes/2024/08 - August/11 - August - 2024.md",
+    "01 - Notes/2024/08 - August/13 - August - 2024.md",
+    "00 - Templates/Notes.md",
+    "00 - Templates",
+    "02 - Materials",
+    "Daily Notes.md",
+    "01 - Notes/2024-08-11.md",
+    "01 - Notes/2024/08 - August",
+    "01 - Notes/2024",
+    "01 - Notes",
+    "2 - Source Material/Courses/Google Cloud.md",
+    "3 - Tags/Cloud.md",
+    "3 - Tags/Developer.md",
+    "1 - Rough Notes/Untitled.md",
+    "2 - Source Material/Courses",
+    "3 - Tags",
+    "2 - Source Material/Videos",
+    "1 - Rough Notes/Homepage.md",
+    "2024-04-29.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
