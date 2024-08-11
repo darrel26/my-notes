@@ -1,0 +1,12 @@
+body {
+  --h2-line-height: 4;
+  --list-spacing: 4px;
+}
+
+.cm-line {
+  font-weight: 200;
+}
+
+.cm-list-1 {
+  line-height: 1.75rem;
+}
