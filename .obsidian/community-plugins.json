@@ -4,5 +4,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "colored-tags-wrangler",
+  "obsidian-style-settings"
 ]

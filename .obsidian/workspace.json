@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "beaac95538670439",
+        "id": "ec7155291a784b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d221966001f2e74",
+            "id": "37c3de9e72c8bc8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md",
+                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md",
+                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md",
+                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Notes/2024/08 - August/13 - August - 2024.md"
+                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,29 +166,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a9a74dd3c8689f3",
+  "active": "37c3de9e72c8bc8b",
   "lastOpenFiles": [
+    "03 - Programming/Rust/1. Get Started/1.1 Installation.md",
+    "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
+    "01 - Notes/2024/08 - August/14 - August - 2024.md",
+    "03 - Programming/Rust/1. Get Started",
+    "03 - Programming/Rust/001 - Get Started.md",
+    "03 - Programming/Cloud/Google Cloud Computing",
+    "03 - Programming/Cloud",
+    "03 - Programming/Rust",
+    "03 - Programming",
+    "2024-08-11.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "01 - Notes/2024/08 - August/11 - August - 2024.md",
+    "01 - Notes/2024/08 - August/13 - August - 2024.md",
+    "01 - Notes/2024/08 - August/12 - August - 2024.md",
+    "README.md",
+    "00 - Templates/Notes.md",
     "02 - Materials/Courses",
     "02 - Materials/Videos",
     "02 - Materials/Articles",
-    "01 - Notes/2024/08 - August/12 - August - 2024.md",
-    "01 - Notes/2024/08 - August/11 - August - 2024.md",
-    "01 - Notes/2024/08 - August/13 - August - 2024.md",
-    "00 - Templates/Notes.md",
     "00 - Templates",
     "02 - Materials",
     "Daily Notes.md",
     "01 - Notes/2024-08-11.md",
-    "01 - Notes/2024/08 - August",
-    "01 - Notes/2024",
-    "01 - Notes",
     "2 - Source Material/Courses/Google Cloud.md",
     "3 - Tags/Cloud.md",
     "3 - Tags/Developer.md",
     "1 - Rough Notes/Untitled.md",
-    "2 - Source Material/Courses",
-    "3 - Tags",
-    "2 - Source Material/Videos",
     "1 - Rough Notes/Homepage.md",
     "2024-04-29.md",
     "Welcome.md",
