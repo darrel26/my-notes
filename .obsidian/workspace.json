@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "43cc02677badd4b2",
+        "id": "67b40cc0bb8bbdaf",
         "type": "tabs",
         "children": [
           {
-            "id": "aa99c2df6f99973f",
+            "id": "4ed904e4548130f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2f23e5910fa0cbc3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md"
               }
             }
           }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md"
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md"
               }
             }
           },
@@ -176,17 +166,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa99c2df6f99973f",
+  "active": "4ed904e4548130f7",
   "lastOpenFiles": [
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/2. Resources and Access in the cloud.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/3. Virtual Machines and Networks in the Cloud.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Manage Kubernetes in Google Cloud/1. Managing Deployments Using Kubernetes Engine.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Manage Kubernetes in Google Cloud",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195545.png",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/1. Introducing Google Cloud.md",
+    "README.md",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195407.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195155.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195101.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195014.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915194734.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915194540.png",
+    "04 - Assets/Screenshot/15-09-2024",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915153807.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915153951.png",
+    "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915153646.png",
     "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Introducing Google Cloud.md",
     "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.md",
-    "Pasted Image 20240914223245_374.png",
-    "04 - Assets/Screenshot/Pasted image 20240914222952.png",
     "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure",
     "04 - Assets/Canva/Google Cloud Fundamentals",
-    "README.md",
     "04 - Assets/Canva",
     "04 - Assets/Screenshot",
     "04 - Assets",
@@ -201,9 +204,7 @@
     "01 - Notes/2024/08 - August/14 - August - 2024.md",
     "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
     "03 - Programming/Rust/1. Get Started/1.1 Environment Setup.md",
-    "03 - Programming/Rust/1. Get Started",
     "03 - Programming/Rust/001 - Get Started.md",
-    "03 - Programming/Cloud/Google Cloud Computing",
     "2024-08-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -214,8 +215,6 @@
     "3 - Tags/Developer.md",
     "1 - Rough Notes/Untitled.md",
     "1 - Rough Notes/Homepage.md",
-    "2024-04-29.md",
-    "Welcome.md",
-    "create a link.md"
+    "2024-04-29.md"
   ]
 }
