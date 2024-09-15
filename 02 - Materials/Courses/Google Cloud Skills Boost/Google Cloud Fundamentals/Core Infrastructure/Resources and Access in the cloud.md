@@ -1,0 +1,26 @@
+---
+Date: 2024-09-14
+---
+- **Resource Hierarchy:**
+    - **Organizations:** Top-level containers that can group multiple projects.
+    - **Folders:** Intermediate containers that can group projects within an organization.
+    - **Projects:** A collection of resources that share a common billing account and access controls.
+    - **Resource types:** The specific types of resources within a project, such as Compute Engine instances, Cloud Storage buckets, and Cloud SQL databases.
+    - Organization Node : [[Resource Hierarchy Management.excalidraw]]
+
+- **IAM:**
+    - **Identity management:** Creating and managing user accounts within GCP.
+    - **Access control:** Granting permissions to users and groups to access specific resources.
+    - **Roles:** Predefined sets of permissions that can be assigned to users or groups.
+- **Service Accounts:**
+    - **Non-human accounts:** Used to authenticate applications and services.
+    - **API keys:** Used to provide credentials to applications.
+    - **OAuth 2.0:** A standard protocol for authorization.
+- **Cloud Identity:**
+    - **User management:** Creating and managing user accounts within GCP.
+    - **Domain management:** Managing domains and users associated with those domains.
+    - **Single sign-on (SSO):** Enabling users to sign in to multiple applications with a single set of credentials.
+- **Interacting with GCP:**
+    - **Google Cloud Console:** A web-based interface for managing GCP resources.
+    - **Command-line tools:** Tools like gcloud and gsutil for interacting with GCP from the command line.
+    - **APIs:** Using REST APIs to interact with GCP programmatically.

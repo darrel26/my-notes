@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7155291a784b0e",
+        "id": "43cc02677badd4b2",
         "type": "tabs",
         "children": [
           {
-            "id": "37c3de9e72c8bc8b",
+            "id": "aa99c2df6f99973f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "2f23e5910fa0cbc3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md"
               }
             }
           }
@@ -70,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 597.5
   },
   "right": {
     "id": "a35dbac6bbc16450",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md"
+                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md"
               }
             }
           },
@@ -166,30 +176,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37c3de9e72c8bc8b",
+  "active": "aa99c2df6f99973f",
   "lastOpenFiles": [
-    "03 - Programming/Rust/1. Get Started/1.1 Installation.md",
-    "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
+    "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Resources and Access in the cloud.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/Introducing Google Cloud.md",
+    "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.md",
+    "Pasted Image 20240914223245_374.png",
+    "04 - Assets/Screenshot/Pasted image 20240914222952.png",
+    "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure",
+    "04 - Assets/Canva/Google Cloud Fundamentals",
+    "README.md",
+    "04 - Assets/Canva",
+    "04 - Assets/Screenshot",
+    "04 - Assets",
+    "00 - Templates/Notes.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals",
+    "02 - Materials/Courses/Google Cloud Skills Boost",
+    "01 - Notes/My Computer Hardware.md",
+    "01 - Notes/2024/08 - August/11 - August - 2024.md",
+    "01 - Notes/2024/08 - August/12 - August - 2024.md",
+    "01 - Notes/2024/08 - August/13 - August - 2024.md",
     "01 - Notes/2024/08 - August/14 - August - 2024.md",
+    "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
+    "03 - Programming/Rust/1. Get Started/1.1 Environment Setup.md",
     "03 - Programming/Rust/1. Get Started",
     "03 - Programming/Rust/001 - Get Started.md",
     "03 - Programming/Cloud/Google Cloud Computing",
-    "03 - Programming/Cloud",
-    "03 - Programming/Rust",
-    "03 - Programming",
     "2024-08-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "01 - Notes/2024/08 - August/11 - August - 2024.md",
-    "01 - Notes/2024/08 - August/13 - August - 2024.md",
-    "01 - Notes/2024/08 - August/12 - August - 2024.md",
-    "README.md",
-    "00 - Templates/Notes.md",
-    "02 - Materials/Courses",
-    "02 - Materials/Videos",
-    "02 - Materials/Articles",
-    "00 - Templates",
-    "02 - Materials",
     "Daily Notes.md",
     "01 - Notes/2024-08-11.md",
     "2 - Source Material/Courses/Google Cloud.md",

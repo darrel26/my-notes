@@ -1,0 +1,25 @@
+---
+Date: 2024-09-14
+---
+- **Cloud Computing:**
+    - Benefits: scalability, flexibility, cost-effectiveness
+    - Models: IaaS, PaaS, SaaS
+    - Difference from traditional IT: on-demand resources, pay-as-you-go
+- **IaaS vs. PaaS:**
+    - IaaS: control over hardware, software, networking
+    - PaaS: focus on application development, managed infrastructure
+- **Google Cloud Network:**
+    - Regions, zones, and connectivity options
+    - Global network infrastructure
+- **Environmental Impact:**
+    - Sustainability initiatives
+    - Carbon footprint reduction
+- **Security:**
+    - Encryption, access controls, compliance certifications
+    - Robust security measures
+- **Open Source Ecosystems:**
+    - Support for open source technologies
+    - Integration with cloud solutions
+- **Pricing and Billing:**
+    - Usage-based billing, reserved instances, committed use discounts
+    - Understanding GCP's pricing models
