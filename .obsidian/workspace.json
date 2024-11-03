@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
+                "file": "01 - Notes/Daily/2024-11-03.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-03"
             }
           }
         ],
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 346.5
   },
   "right": {
     "id": "a35dbac6bbc16450",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
+                "file": "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Resource Hierarchy Management.excalidraw"
             }
           },
           {
@@ -103,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
+                "file": "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Resource Hierarchy Management.excalidraw"
             }
           },
           {
@@ -117,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md"
-              }
+                "file": "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Resource Hierarchy Management.excalidraw"
             }
           },
           {
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -143,7 +161,19 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "06c7e41ba1c892b6",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ],
@@ -162,19 +192,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4ed904e4548130f7",
   "lastOpenFiles": [
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/2. Resources and Access in the cloud.md",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/3. Virtual Machines and Networks in the Cloud.md",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
+    "03 - Programming/Rust/Get Started/1.0 The Rust Programming Language.md",
+    "03 - Programming/Rust/Get Started/1.1 Environment Setup.md",
+    "03 - Programming/Rust/Get Started/1.3 Core Concepts.md",
     "02 - Materials/Courses/Google Cloud Skills Boost/Manage Kubernetes in Google Cloud/1. Managing Deployments Using Kubernetes Engine.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/4. Google Cloud Storage Options.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/3. Virtual Machines and Networks in the Cloud.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/2. Resources and Access in the cloud.md",
+    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/1. Introducing Google Cloud.md",
+    "02 - Materials/Courses/GitLab/GitLab - Architecture.md",
+    "01 - Notes/Daily/2024-11-03.md",
+    "00 - Templates/Notes.md",
+    "01 - Notes/Daily/2024-11-04.md",
+    "01 - Notes/Daily/2024-11-02.md",
+    "01 - Notes/Daily2024-11-02.md",
+    "01-Notes/Daily2024-11-04.md",
+    "01-Notes/Daily2024-11-02.md",
+    "01-Notes",
+    "2024-11-02.md",
+    "01 - Notes/Daily",
+    "03 - Programming/Rust/2. Exercises/100 Exercises To Learn Rust.md",
+    "01 - Notes/Weekend Notes/Untitled",
+    "01 - Notes/Weekend Notes",
+    "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md",
+    "02 - Materials/Courses/GitLab/Pipelines/Untitled.md",
+    "02 - Materials/Courses/GitLab/Pipelines",
+    "02 - Materials/Courses/GitLab",
+    "01 - Notes/2024/08 - August/14 - August - 2024.md",
+    "01 - Notes/2024/08 - August/11 - August - 2024.md",
+    "01 - Notes/2024/08 - August/12 - August - 2024.md",
+    "01 - Notes/2024/08 - August/13 - August - 2024.md",
+    "03 - Programming/Rust/2. Exercises",
+    "03 - Programming/Rust/Untitled.md",
     "02 - Materials/Courses/Google Cloud Skills Boost/Manage Kubernetes in Google Cloud",
     "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195545.png",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure/1. Introducing Google Cloud.md",
     "README.md",
     "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195407.png",
     "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915195155.png",
@@ -186,35 +245,8 @@
     "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915153807.png",
     "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915153951.png",
     "04 - Assets/Screenshot/15-09-2024/Pasted image 20240915153646.png",
-    "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.excalidraw.md",
-    "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure/Resource Hierarchy Management.md",
     "04 - Assets/Canva/Google Cloud Fundamentals/Core Infrastructure",
-    "04 - Assets/Canva/Google Cloud Fundamentals",
-    "04 - Assets/Canva",
-    "04 - Assets/Screenshot",
-    "04 - Assets",
-    "00 - Templates/Notes.md",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals/Core Infrastructure",
-    "02 - Materials/Courses/Google Cloud Skills Boost/Google Cloud Fundamentals",
-    "02 - Materials/Courses/Google Cloud Skills Boost",
-    "01 - Notes/My Computer Hardware.md",
-    "01 - Notes/2024/08 - August/11 - August - 2024.md",
-    "01 - Notes/2024/08 - August/12 - August - 2024.md",
-    "01 - Notes/2024/08 - August/13 - August - 2024.md",
-    "01 - Notes/2024/08 - August/14 - August - 2024.md",
-    "03 - Programming/Rust/1. Get Started/1.0 The Rust Programming Language.md",
-    "03 - Programming/Rust/1. Get Started/1.1 Environment Setup.md",
-    "03 - Programming/Rust/001 - Get Started.md",
-    "2024-08-11.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Daily Notes.md",
-    "01 - Notes/2024-08-11.md",
-    "2 - Source Material/Courses/Google Cloud.md",
-    "3 - Tags/Cloud.md",
-    "3 - Tags/Developer.md",
-    "1 - Rough Notes/Untitled.md",
-    "1 - Rough Notes/Homepage.md",
-    "2024-04-29.md"
+    "Untitled.canvas"
   ]
 }

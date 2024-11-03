@@ -24,5 +24,13 @@
       ],
       "key": "`"
     }
+  ],
+  "pomodoro-timer:toggle-timer-panel": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }
